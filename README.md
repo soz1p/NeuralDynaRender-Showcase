@@ -98,7 +98,7 @@ RGBA      ← 원본 볼륨을 float4 3D 텍스처로 삼선형 샘플링
 
 ## Source availability
 
-공동 연구 및 연구실 소스코드, 촬영 원본 데이터는 공개하지 않습니다. 기반 기술은 NVIDIA instant-ngp입니다. 논문 PDF는 재배포 조건이 확인되지 않아 저장소에 복제하지 않았으며, 그림은 논문 Figure 1·7입니다.
+공동 연구 및 연구실 소스코드, 촬영 원본 데이터는 공개하지 않습니다. 기반 기술은 NVIDIA instant-ngp입니다.
 
 ---
 
