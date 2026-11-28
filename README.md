@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-1f93a8?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/CUDA-1f93a8?style=flat-square" alt="CUDA"> <img src="https://img.shields.io/badge/NeRF%20(instant--ngp)-1f93a8?style=flat-square" alt="NeRF (instant-ngp)"> <img src="https://img.shields.io/badge/PBD-1f93a8?style=flat-square" alt="PBD"> <img src="https://img.shields.io/badge/OpenGL%20%2F%20GLSL-1f93a8?style=flat-square" alt="OpenGL / GLSL"> <img src="https://img.shields.io/badge/GLFW%20%2F%20ImGui-1f93a8?style=flat-square" alt="GLFW / ImGui">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-1f93a8?style=flat-square" alt="C/C++"> <img src="https://img.shields.io/badge/CUDA-1f93a8?style=flat-square" alt="CUDA"> <img src="https://img.shields.io/badge/NeRF%20(instant--ngp)-1f93a8?style=flat-square" alt="NeRF (instant-ngp)"> <img src="https://img.shields.io/badge/PBD-1f93a8?style=flat-square" alt="PBD"> <img src="https://img.shields.io/badge/OpenGL%20%2F%20GLSL-1f93a8?style=flat-square" alt="OpenGL / GLSL"> <img src="https://img.shields.io/badge/GLFW%20%2F%20ImGui-1f93a8?style=flat-square" alt="GLFW / ImGui">
 </p>
 
 > **핵심 기여** &nbsp; NeRF 볼륨과 PBD 물리엔진을 잇는 CUDA 병렬 리샘플링을 맡아, 캡스톤디자인 장려상과 학술지 공저 논문 게재에 기여했습니다.
